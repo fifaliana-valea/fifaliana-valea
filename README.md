@@ -51,13 +51,6 @@
 
 ---
 
-## 🔥 Profil Activity & Visitors  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fifaliana-valea&label=Visiteurs&color=blue&style=flat-square" alt="Profile Views Counter" />
-</p>
-
----
-
 ## 📫 Me Contacter  
 <p align="left">
   <a href="mailto:valeafifaliana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
