@@ -30,11 +30,3 @@
 ### ☁️ Cloud Computing  
 ✔️ Docker, Firebase  
 
-
----
-
-## 📊 Statistiques GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonNomGitHub&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomGitHub&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TonNomGitHub&theme=radical)  
-
