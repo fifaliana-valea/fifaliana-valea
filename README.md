@@ -30,18 +30,30 @@
 
 ---
 
-## 📊 Statistiques GitHub  
+## ⏳ Temps d'activité GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fifaliana-valea&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fifaliana-valea&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fifaliana-valea&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fifaliana-valea&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
 
-## ⏳ Temps d'activité GitHub  
+## 📊 Statistiques GitHub  
+<div align="center">
+  <a href="https://github.com/fifaliana-valea">
+    <img src="https://github-readme-stats.vercel.app/api?username=fifaliana-valea&show_icons=true&theme=radical" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fifaliana-valea&layout=compact&theme=radical" width="49%" alt="Top Langs" />
+  </a>
+  <br>
+  <a href="https://github.com/fifaliana-valea">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fifaliana-valea&theme=radical" width="60%" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+## 🔥 Profil Activity & Visitors  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fifaliana-valea&theme=radical" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=fifaliana-valea&label=Visiteurs&color=blue&style=flat-square" alt="Profile Views Counter" />
 </p>
 
 ---
