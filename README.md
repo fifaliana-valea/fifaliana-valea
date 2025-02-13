@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Fifaliana Valea RAZAKARIMALALA  
+# 👋 Salut, je suis Fifaliana 
 
 💡 Passionné par le développement logiciel, le cloud computing et l'architecture MVC  
 🚀 Toujours en quête de nouveaux défis technologiques  
