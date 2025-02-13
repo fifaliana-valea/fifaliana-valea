@@ -14,11 +14,7 @@
 
 ### 🛠️ Langages de Programmation  
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,cs,javascript" height="50" />
 </p>
 
 ### 🚀 Frameworks et Technologies  
@@ -43,10 +39,19 @@
 
 ---
 
+## ⏳ Temps d'activité GitHub  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fifaliana-valea&theme=radical" alt="Activity Graph" />
+</p>
+
+---
+
 ## 📫 Me Contacter  
-📧 **Email** : valeafifaliana@gmail.com  
-🔗 **LinkedIn** : [Ton Profil LinkedIn](https://linkedin.com/in/TonProfil)  
-🌐 **Facebook** : [Mon Facebook]([https://www.facebook.com/TonProfilFacebook](https://www.facebook.com/profile.php?id=100083571592140&locale=fr_FR))  
+<p align="left">
+  <a href="mailto:valeafifaliana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/TonProfilLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.facebook.com/profile.php?id=100083571592140&locale=fr_FR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</p>
 
 ---
 
