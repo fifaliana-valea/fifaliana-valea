@@ -1,16 +1,88 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Fifaliana%20Valea&fontSize=40&fontColor=ffffff"/>
 
-<!--
-**fifaliana-valea/fifaliana-valea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Welcome !</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Full-Stack Developer | 🚀 Passionnée par le développement web
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🚀 CHECK%20OUT%20MY%20PORTFOLIO-blue?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+```js
+const me = {
+  lastName: "RAZAKARIMALALA",
+  firstName: "Fifaliana Valea",
+  focus: ["Full-Stack Development", "Web Apps"],
+  passions: ["Coding", "Tech", "Problem Solving"],
+  location: {
+    country: "Madagascar",
+    city: "Antananarivo"
+  }
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
+![PHP](https://skillicons.dev/icons?i=php)
+![JS](https://skillicons.dev/icons?i=javascript)
+
+### ⚙️ Frameworks
+
+![Spring](https://skillicons.dev/icons?i=spring)
+![Dotnet](https://skillicons.dev/icons?i=dotnet)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Symfony](https://skillicons.dev/icons?i=symfony)
+
+### 🛢️ Databases
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### 🧰 Tools
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fifaliana-valea&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=fifaliana-valea&theme=radical" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+* 🎟️ **Aiolia-Event** → Plateforme de gestion d’événements complète
+* 💰 **Cryptomonai** → Plateforme crypto (Spring Boot + Laravel)
+* 🏢 **ERPNext Integration** → Intégration RH & paie (.NET)
+
+---
+
+## 📫 Contact
+
+* 📧 Email: valeafifaliana@gmail.com
+* 🌐 GitHub: https://github.com/fifaliana-valea
+TON_USERNAME
+---
+
+⭐ *Merci de visiter mon profil !*
