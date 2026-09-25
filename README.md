@@ -80,10 +80,10 @@ const me = {
 
 ## 📫 Contact
 
-- 📧 Email: valeafifaliana@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/ton-profil  ](https://www.linkedin.com/in/fifaliana-valea-razakarimalala-603360350/)
-- 📘 Facebook: [https://www.facebook.com/ton.profil ](https://www.facebook.com/fifah.valea) 
-
+- 📧 **Email:** [valeafifaliana@gmail.com](mailto:valeafifaliana@gmail.com)
+- 💼 **LinkedIn:** [Fifaliana Valea](https://www.linkedin.com/in/fifaliana-valea-razakarimalala-603360350/)
+- 📘 **Facebook:** [Fifah Valea](https://www.facebook.com/fifah.valea)
+  
 ---
 
 ⭐ *Merci de visiter mon profil !*
