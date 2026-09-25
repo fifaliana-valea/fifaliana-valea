@@ -38,26 +38,56 @@ const me = {
 ![Java](https://skillicons.dev/icons?i=java)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![PHP](https://skillicons.dev/icons?i=php)
-![JS](https://skillicons.dev/icons?i=javascript)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Python](https://skillicons.dev/icons?i=python)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
 
-### ⚙️ Frameworks
+### ⚙️ Frameworks & Libraries
 
-![Spring](https://skillicons.dev/icons?i=spring)
-![Dotnet](https://skillicons.dev/icons?i=dotnet)
+![Angular](https://skillicons.dev/icons?i=angular)
+![React](https://skillicons.dev/icons?i=react)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Symfony](https://skillicons.dev/icons?i=symfony)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### 🛢️ Databases
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MariaDB](https://skillicons.dev/icons?i=mariadb)
+![Oracle](https://skillicons.dev/icons?i=oracle)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### 🧰 Tools
+### 🔌 API & Architecture
 
-![Docker](https://skillicons.dev/icons?i=docker)
+- REST API
+- MVC
+- Programmation Orientée Objet (POO)
+- Architecture Full Stack
+
+### 🧰 Tools & Environments
+
 ![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Postman](https://skillicons.dev/icons?i=postman)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![NetBeans](https://skillicons.dev/icons?i=netbeans)
+![PhpStorm](https://skillicons.dev/icons?i=phpstorm)
+![XAMPP](https://skillicons.dev/icons?i=xampp)
+
+### 📦 Development Tools
+
+- Composer
+- Maven
+- Firebase
+- Trello
 
 ---
 
