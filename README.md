@@ -103,7 +103,6 @@ const me = {
 
 - 📧 **Email:** [valeafifaliana@gmail.com](mailto:valeafifaliana@gmail.com)
 - 💼 **LinkedIn:** [Fifaliana Valea](https://www.linkedin.com/in/fifaliana-valea-razakarimalala-603360350/)
-- 📘 **Facebook:** [Fifah Valea](https://www.facebook.com/fifah.valea)
   
 ---
 
